@@ -1,2 +1,2 @@
 # Erlang
-Erlang Course
+Check the branches
